@@ -1,0 +1,149 @@
+.navbar-light .navbar-brand span {
+	text-transform:uppercase;
+	color:black;
+}
+.carousel {
+	height:600px;
+}
+.carousel img {
+	object-fit:cover;
+	height:600px;
+	width: 100%	
+}
+.navbar-light .navbar-brand{
+	color:#c1c1cc;
+}
+.post {
+	border:1px solid grey;
+	padding-bottom:15px;
+	box-shadow:5px 5px 10px gray;
+}
+.post .img img {
+	object-fit: fill;
+	width: 100%;
+	height:200px;
+}
+.post h2{
+	background-color:#101011;
+	color:#ffffff; 
+	font-size:18px;
+}
+.btn-details {
+	background-color:orange;
+	color:#ffffff;
+	border:none;
+}
+.all-packages {
+	background-color:#000000;
+	color:#ffffff;
+}
+.summer {
+	background-image:url(../images/summer.jpg);	
+	background-repeat:no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	min-height: 400px;
+	padding: 50px 0;
+}
+.summer p {
+	color:#ffffff;
+	font:18px Tahoma;
+}
+.best-services span,.summer span, .our-destinations span{
+	display:block;
+	width:60px;
+	height:3px;
+	background-color:#ffffff;
+}
+.summer h1 {
+	color:#ffffff;
+}
+.summer button {
+	background-color:skyblue;
+	border:none;
+	color:#ffffff;
+}
+.best-services span,.our-destinations span {
+	background-color:#c1c1c1;
+}
+.our-destinations img {
+	width:100%;
+	height:320px;
+}
+.dest {
+	background-image:url(../images/dest-bg.jpg);
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+}
+.rate p{
+	color:#ffffff;
+	font-size:30px;
+}
+.rate button {
+	border:none;
+	color:white;
+}
+.services h2 {
+	background-color:#0c0c0c;
+	font-size:18px;
+}
+.services img {
+	width:100%;
+	height:260px;
+}
+.services ul {
+	list-style-type:none;
+}
+.services button {
+	border:none;
+	font:18px Tahoma;
+	color:white;
+}
+footer {
+	background-color:#111c1c;
+}
+footer h3 {
+	font-family:Tahoma;
+	color:#ffffff;
+}
+footer span {
+	display:block;
+	width:40px;
+	height:3px; 
+	background-color:#c1c1c1;
+}
+footer p {
+	font:14px Tahoma;
+	color:#c1c1c1
+}
+footer ul li {
+	line-height:40px;
+	list-style-type:none;
+}
+footer img {
+	
+	max-width:80px;
+	height:80px;
+}
+footer input {
+	height:35px;
+	border:none;
+	background-color:#111c11;
+	padding:2px;
+}
+footer textarea {
+	height:90px;
+	resize:none;
+	border:none;
+	background-color:#111c11;
+	padding:2px;
+}
+footer button {
+	font:18px Tahoma;
+	color:white;
+}
+.link a {
+	font:20px Tahoma;
+	color:gray;
+}
